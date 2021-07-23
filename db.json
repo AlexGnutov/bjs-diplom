@@ -67,10 +67,22 @@
       "password": "demo",
       "id": 6,
       "balance": {
-        "RUB": 84270.07326007326,
+        "RUB": 84370.07326007326,
         "USD": 1364.88,
         "EUR": 12200,
         "NTC": 1000
+      }
+    },
+    {
+      "created_at": "2021-07-23T02:00:04.506Z",
+      "login": "vova@demo.ru",
+      "password": "demo",
+      "id": 7,
+      "balance": {
+        "RUB": 1000,
+        "USD": 10000,
+        "EUR": 0,
+        "NTC": 0
       }
     }
   ],

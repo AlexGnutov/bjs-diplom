@@ -24,6 +24,6 @@ function registerServerResponse(reply) {
     if (reply.success === true) {
         location.reload();
     } else {
-        form.setLoginErrorMessage(reply.error);
+        form.setRegisterErrorMessage(reply.error);
     }
 }
